@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-![Результат теста балансировки Round‑robin](task1.balance.png)
+![Результат теста балансировки Round‑robin](Task1.balance.png)
 
 ---
 
